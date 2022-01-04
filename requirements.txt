@@ -2,5 +2,5 @@ Pyrogram
 TgCrypto
 ffmpeg-python
 psutil
-pytgcalls
+py-tgcalls==0.8.1
 wheel
